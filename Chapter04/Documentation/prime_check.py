@@ -3,11 +3,7 @@ from math import sqrt
 
 
 def prime_check(n: int) -> bool:
-    """
-    Check to see if n is a prime number or not
-    :param n: an integer to prime-check
-    :return: boolean
-    """
+    # TODO: docstring goes here
 
     if n < 2:
         return False
