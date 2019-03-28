@@ -1,6 +1,4 @@
 import threading
-import time
-import random
 import sys; sys.setswitchinterval(.000001)
 
 
@@ -12,7 +10,6 @@ class Counter:
 
     def update(self):
         current_value = self.value
-        #time.sleep(random.randint(0, 1))  # simulate varying computations
         self.value = current_value + 1
 
     def run(self):
