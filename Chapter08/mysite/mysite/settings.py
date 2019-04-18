@@ -20,7 +20,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'k^7mgm#e)3+wcej_7z53(732uey_@v+xke&mzgz@s*uvb_b4dv'
+SECRET_KEY = 'q&6_0=yn$i1zbv_gmrak732hye4&kt@%i_7f-7#z#j=!as133b'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'SurveyDatabase'),
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
 
