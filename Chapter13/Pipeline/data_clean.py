@@ -4,7 +4,7 @@ import numpy as np
 from datetime import timedelta
 
 #%% Read in dataset
-df = pd.read_csv('data/online_sex_work.csv')  # to be added: index_col=0
+df = pd.read_csv('data/dataset.csv')  # to be added: index_col=0
 
 #%% Remove empty rows.
 df = df.loc[~df.index.isnull()]
@@ -113,4 +113,4 @@ df['Risk'] = df['Risk'].apply(get_risk)
 df['Risk'].head()
 
 #%% Save the cleaned dataset
-df.to_csv('data/cleaned_online_sex_work.csv')
+df.to_csv('data/cleaned_dataset.csv')
