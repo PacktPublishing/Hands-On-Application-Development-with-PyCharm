@@ -9,10 +9,10 @@ SITES = [
 ]
 
 
-def ping(url):
+def get_status(url):
     res = requests.get(url)
     return res.status_code
 
 
 if __name__ == '__main__':
-    ping('http://p')
+    get_status('http://p')
