@@ -1,0 +1,12 @@
+BirthYear: 
+Gender: Male
+Parkinsons: True
+Tremors: False
+DiagnosisYear: 
+Sided: None
+UPDRS: 4
+Impact: Severe
+Levadopa: True
+DA: True
+MAOB: True
+Other: True

@@ -1,0 +1,12 @@
+BirthYear: 1940
+Gender: Male
+Parkinsons: True
+Tremors: True
+DiagnosisYear: 1996
+Sided: Right
+UPDRS: Don't know
+Impact: Severe
+Levadopa: True
+DA: True
+MAOB: False
+Other: True

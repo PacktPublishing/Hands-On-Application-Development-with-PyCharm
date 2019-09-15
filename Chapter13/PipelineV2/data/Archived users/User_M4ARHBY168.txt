@@ -1,0 +1,12 @@
+BirthYear: 1950
+Gender: Female
+Parkinsons: False
+Tremors: False
+DiagnosisYear:  ------
+Sided: Left
+UPDRS: Don't know
+Impact:  ------
+Levadopa: False
+DA: False
+MAOB: False
+Other: False

@@ -1,0 +1,12 @@
+BirthYear: 
+Gender: Female
+Parkinsons: True
+Tremors: False
+DiagnosisYear: 2015
+Sided: None
+UPDRS: Don't know
+Impact: Medium
+Levadopa: True
+DA: False
+MAOB: True
+Other: True
