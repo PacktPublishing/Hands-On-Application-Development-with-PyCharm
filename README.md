@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/programming/hands-on-application-development-with-pycharm?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789348262-original.jpeg" alt="" height="256px" align="right"></a>
 
-This is the code repository for [](https://www.packtpub.com/programming/hands-on-application-development-with-pycharm?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [Hands-on Application Development with PyCharm](https://www.packtpub.com/programming/hands-on-application-development-with-pycharm?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
 **Accelerate your Python applications using practical coding techniques in PyCharm**
 
